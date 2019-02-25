@@ -1,7 +1,7 @@
 ########################################### Oficina projeto Empresa #####################################################
-Fábio Aguiar dos Santos   RA:1701545   ADS
-Matheus Leandro Ribeiro Gomes RA:1701097  SI
+Fábio Aguiar dos Santos   RA:1701545   
+Matheus Leandro Ribeiro Gomes RA:1701097  
 Leandro Guezin Junior RA:1701798 
-Wellington Santos RA: 1701517
-Rayssa Maria de Araújo Neves RA:
+Wellington Santos RA: 1701517 
+Rayssa Maria de Araújo Neves RA: 1701478 
 
